@@ -1,0 +1,39 @@
+name: Collect Access Data
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC (15:00 JST)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect access data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: python collect_access.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add access_data.json
+          git diff --cached --quiet || git commit -m "Update access data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
