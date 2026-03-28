@@ -1,4 +1,5 @@
 name: Collect Access Data
+# Daily GitHub traffic data collector
 
 on:
   schedule:
