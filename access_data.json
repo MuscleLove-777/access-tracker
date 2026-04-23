@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T07:19:50.164553+00:00",
+  "last_updated": "2026-04-23T07:21:32.788777+00:00",
   "repos": {
     "academy-index": {
       "total_views": 0,
@@ -209,8 +209,8 @@
     "access-tracker": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 173,
-      "total_clone_uniques": 85,
+      "total_clones": 187,
+      "total_clone_uniques": 87,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -401,6 +401,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -608,14 +613,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "adam-academy": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 12,
-      "total_clone_uniques": 12,
+      "total_clones": 11,
+      "total_clone_uniques": 11,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/adam-academy",
       "daily": [
@@ -811,6 +821,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -1223,6 +1238,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -1633,6 +1653,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -1844,8 +1869,8 @@
     "bank-loan-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 14,
-      "total_clone_uniques": 14,
+      "total_clones": 11,
+      "total_clone_uniques": 11,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/bank-loan-academy",
       "daily": [
@@ -2038,14 +2063,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "boki-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 11,
-      "total_clone_uniques": 11,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/boki-academy",
       "daily": [
@@ -2241,6 +2276,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -2448,14 +2488,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "coffee-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 27,
-      "total_clone_uniques": 26,
+      "total_clones": 12,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/coffee-academy",
       "daily": [
@@ -2646,6 +2691,11 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
           "views": 0,
           "uniques": 0
         }
@@ -2859,8 +2909,8 @@
     "company-setup-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 10,
-      "total_clone_uniques": 10,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/company-setup-academy",
       "daily": [
@@ -3058,14 +3108,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "cooking-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 29,
-      "total_clone_uniques": 24,
+      "total_clones": 12,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/cooking-academy",
       "daily": [
@@ -3256,6 +3311,11 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
           "views": 0,
           "uniques": 0
         }
@@ -3463,14 +3523,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "csv-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 9,
-      "total_clone_uniques": 9,
+      "total_clones": 8,
+      "total_clone_uniques": 8,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/csv-academy",
       "daily": [
@@ -3666,6 +3731,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -3871,6 +3941,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -4488,14 +4563,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ds-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 26,
-      "total_clone_uniques": 24,
+      "total_clones": 11,
+      "total_clone_uniques": 11,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ds-academy",
       "daily": [
@@ -4688,14 +4768,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "dumbbell-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 11,
-      "total_clone_uniques": 11,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/dumbbell-academy",
       "daily": [
@@ -4891,6 +4981,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -5104,8 +5199,8 @@
     "english-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 25,
-      "total_clone_uniques": 23,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/english-academy",
       "daily": [
@@ -5296,6 +5391,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -5503,6 +5608,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -5708,14 +5818,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "facilitator-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 10,
-      "total_clone_uniques": 10,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/facilitator-academy",
       "daily": [
@@ -5911,6 +6026,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -6124,8 +6244,8 @@
     "fitness-affiliate-blog": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 165,
-      "total_clone_uniques": 64,
+      "total_clones": 116,
+      "total_clone_uniques": 49,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fitness-affiliate-blog",
       "daily": [
@@ -6318,14 +6438,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fp-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 26,
-      "total_clone_uniques": 24,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fp-academy",
       "daily": [
@@ -6516,6 +6641,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -6729,8 +6864,8 @@
     "gakureki-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 46,
-      "total_clone_uniques": 40,
+      "total_clones": 12,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/gakureki-academy",
       "daily": [
@@ -6923,14 +7058,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "genka-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 57,
-      "total_clone_uniques": 44,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/genka-academy",
       "daily": [
@@ -7123,13 +7268,23 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "hatena-auto-uploader": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 136,
+      "total_clones": 140,
       "total_clone_uniques": 73,
       "is_github_pages": false,
       "homepage": "",
@@ -7326,6 +7481,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -7738,14 +7898,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "invest-academy": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 13,
-      "total_clone_uniques": 13,
+      "total_clones": 8,
+      "total_clone_uniques": 8,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/invest-academy",
       "daily": [
@@ -7936,6 +8101,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -8141,6 +8316,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -8354,8 +8534,8 @@
     "legal-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 11,
-      "total_clone_uniques": 11,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/legal-academy",
       "daily": [
@@ -8551,6 +8731,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -8764,8 +8949,8 @@
     "livedoor-auto-uploader": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 126,
-      "total_clone_uniques": 67,
+      "total_clones": 133,
+      "total_clone_uniques": 72,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -8958,14 +9143,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "logical-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 18,
-      "total_clone_uniques": 17,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/logical-academy",
       "daily": [
@@ -9158,14 +9348,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "market-size-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 34,
-      "total_clone_uniques": 27,
+      "total_clones": 13,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/market-size-academy",
       "daily": [
@@ -9358,14 +9553,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "marketing-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 23,
-      "total_clone_uniques": 21,
+      "total_clones": 11,
+      "total_clone_uniques": 11,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/marketing-academy",
       "daily": [
@@ -9556,6 +9761,11 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
           "views": 0,
           "uniques": 0
         }
@@ -10173,6 +10383,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -10371,6 +10586,11 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
           "views": 0,
           "uniques": 0
         }
@@ -10578,6 +10798,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -10776,6 +11001,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -10983,6 +11218,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -11186,6 +11426,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -11393,14 +11638,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-idle-game": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 8,
-      "total_clone_uniques": 8,
+      "total_clones": 7,
+      "total_clone_uniques": 7,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/muscle-idle-game",
       "daily": [
@@ -11591,6 +11841,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -12003,14 +12263,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-omikuji": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 6,
-      "total_clone_uniques": 6,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -12201,6 +12466,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -12408,6 +12683,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -12608,6 +12888,16 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -12806,6 +13096,11 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
           "views": 0,
           "uniques": 0
         }
@@ -13011,6 +13306,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -13423,6 +13723,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -13626,6 +13931,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -13833,6 +14143,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -14031,6 +14346,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -14238,6 +14563,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -14436,6 +14766,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -14638,14 +14978,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-tower": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 9,
-      "total_clone_uniques": 9,
+      "total_clones": 8,
+      "total_clone_uniques": 8,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -14836,6 +15181,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -15043,6 +15398,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -15243,14 +15603,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "musclelove-games": {
       "total_views": 4,
       "total_uniques": 2,
-      "total_clones": 10,
-      "total_clone_uniques": 10,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -15443,14 +15808,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "nanpa-academy": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 11,
-      "total_clone_uniques": 11,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/nanpa-academy",
       "daily": [
@@ -15648,14 +16018,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "negotiation-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 23,
-      "total_clone_uniques": 21,
+      "total_clones": 11,
+      "total_clone_uniques": 11,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/negotiation-academy",
       "daily": [
@@ -15846,6 +16221,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -16053,6 +16438,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -16256,6 +16646,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -16879,8 +17274,8 @@
     "pachinko-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 14,
-      "total_clone_uniques": 14,
+      "total_clones": 7,
+      "total_clone_uniques": 7,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/pachinko-academy",
       "daily": [
@@ -17073,14 +17468,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "pachislot-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 29,
-      "total_clone_uniques": 27,
+      "total_clones": 12,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/pachislot-academy",
       "daily": [
@@ -17271,6 +17671,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -17478,6 +17888,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -17683,14 +18098,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "pharma-sales-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 18,
-      "total_clone_uniques": 15,
+      "total_clones": 8,
+      "total_clone_uniques": 8,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/pharma-sales-academy",
       "daily": [
@@ -17881,6 +18301,11 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
           "views": 0,
           "uniques": 0
         }
@@ -18088,14 +18513,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "photo-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 33,
-      "total_clone_uniques": 27,
+      "total_clones": 11,
+      "total_clone_uniques": 11,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/photo-academy",
       "daily": [
@@ -18286,6 +18716,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -18491,6 +18931,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -18909,8 +19354,8 @@
     "programming-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 26,
-      "total_clone_uniques": 24,
+      "total_clones": 12,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/programming-academy",
       "daily": [
@@ -19101,6 +19546,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -19308,14 +19763,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "quantum-brief": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 379,
-      "total_clone_uniques": 186,
+      "total_clones": 393,
+      "total_clone_uniques": 190,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/quantum-brief",
       "daily": [
@@ -19508,14 +19968,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "racehorse-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 10,
-      "total_clone_uniques": 10,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/racehorse-academy",
       "daily": [
@@ -19711,6 +20176,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -19924,7 +20394,7 @@
     "rakuten-auto-uploader": {
       "total_views": 2,
       "total_uniques": 1,
-      "total_clones": 187,
+      "total_clones": 197,
       "total_clone_uniques": 95,
       "is_github_pages": false,
       "homepage": "",
@@ -20118,14 +20588,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "realestate-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 26,
-      "total_clone_uniques": 21,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/realestate-academy",
       "daily": [
@@ -20318,14 +20793,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "realtor-miku-property-watch": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 213,
-      "total_clone_uniques": 106,
+      "total_clones": 216,
+      "total_clone_uniques": 107,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -20521,6 +21006,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -20939,8 +21429,8 @@
     "sas-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 11,
-      "total_clone_uniques": 11,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sas-academy",
       "daily": [
@@ -21138,14 +21628,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sas-graph-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 29,
-      "total_clone_uniques": 22,
+      "total_clones": 16,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sas-graph-academy",
       "daily": [
@@ -21338,14 +21833,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sdrg-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 12,
-      "total_clone_uniques": 12,
+      "total_clones": 11,
+      "total_clone_uniques": 11,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sdrg-academy",
       "daily": [
@@ -21541,6 +22041,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -22363,6 +22868,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -22574,8 +23084,8 @@
     "sleep-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 12,
-      "total_clone_uniques": 12,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sleep-academy",
       "daily": [
@@ -22766,6 +23276,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -22979,8 +23499,8 @@
     "snbl-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 11,
-      "total_clone_uniques": 11,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/snbl-academy",
       "daily": [
@@ -23178,16 +23698,231 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sns-ops-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 11,
-      "total_clone_uniques": 11,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sns-ops-academy",
+      "daily": [
+        {
+          "date": "2026-03-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "social-structure-academy": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 12,
+      "total_clone_uniques": 12,
+      "is_github_pages": true,
+      "homepage": "https://musclelove-777.github.io/social-structure-academy",
       "daily": [
         {
           "date": "2026-03-14",
@@ -23386,211 +24121,11 @@
         }
       ]
     },
-    "social-structure-academy": {
-      "total_views": 0,
-      "total_uniques": 0,
-      "total_clones": 29,
-      "total_clone_uniques": 27,
-      "is_github_pages": true,
-      "homepage": "https://musclelove-777.github.io/social-structure-academy",
-      "daily": [
-        {
-          "date": "2026-03-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-20",
-          "views": 0,
-          "uniques": 0
-        }
-      ]
-    },
     "stat-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 31,
-      "total_clone_uniques": 25,
+      "total_clones": 9,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/stat-academy",
       "daily": [
@@ -23783,14 +24318,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "subsidy-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 34,
-      "total_clone_uniques": 24,
+      "total_clones": 15,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/subsidy-academy",
       "daily": [
@@ -23983,14 +24528,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "tax-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 23,
-      "total_clone_uniques": 21,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/tax-academy",
       "daily": [
@@ -24183,14 +24738,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "tfl-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 24,
-      "total_clone_uniques": 22,
+      "total_clones": 10,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/tfl-academy",
       "daily": [
@@ -24381,6 +24946,11 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
           "views": 0,
           "uniques": 0
         }
@@ -24793,6 +25363,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -24996,6 +25571,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -25203,14 +25783,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "anime-navi": {
       "total_views": 2,
       "total_uniques": 2,
-      "total_clones": 213,
-      "total_clone_uniques": 77,
+      "total_clones": 168,
+      "total_clone_uniques": 69,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/anime-navi",
       "daily": [
@@ -25393,14 +25978,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "blog-audit": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 190,
-      "total_clone_uniques": 93,
+      "total_clones": 220,
+      "total_clone_uniques": 104,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/blog-audit",
       "daily": [
@@ -25583,14 +26178,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "chatgpt-master-navi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 396,
-      "total_clone_uniques": 191,
+      "total_clones": 452,
+      "total_clone_uniques": 209,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/chatgpt-master-navi",
       "daily": [
@@ -25778,14 +26383,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "claude-ai-guide": {
       "total_views": 2,
       "total_uniques": 2,
-      "total_clones": 226,
-      "total_clone_uniques": 94,
+      "total_clones": 222,
+      "total_clone_uniques": 88,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/claude-ai-guide",
       "daily": [
@@ -25968,14 +26578,19 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "copilot-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 386,
-      "total_clone_uniques": 184,
+      "total_clones": 444,
+      "total_clone_uniques": 202,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/copilot-lab",
       "daily": [
@@ -26163,14 +26778,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "devin-ai-lab": {
       "total_views": 4,
       "total_uniques": 4,
-      "total_clones": 366,
-      "total_clone_uniques": 173,
+      "total_clones": 377,
+      "total_clone_uniques": 179,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/devin-ai-lab",
       "daily": [
@@ -26356,6 +26976,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -26559,8 +27184,8 @@
     "eronavi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 316,
-      "total_clone_uniques": 119,
+      "total_clones": 282,
+      "total_clone_uniques": 112,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/eronavi",
       "daily": [
@@ -26748,14 +27373,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fetish-dendo": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 180,
-      "total_clone_uniques": 71,
+      "total_clones": 154,
+      "total_clone_uniques": 63,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fetish-dendo",
       "daily": [
@@ -26943,14 +27573,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "gemini-ai-master": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 447,
-      "total_clone_uniques": 215,
+      "total_clones": 473,
+      "total_clone_uniques": 219,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/gemini-ai-master",
       "daily": [
@@ -27138,14 +27773,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "nijigen-realize": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 216,
-      "total_clone_uniques": 87,
+      "total_clones": 159,
+      "total_clone_uniques": 70,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/nijigen-realize",
       "daily": [
@@ -27333,14 +27973,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ntr-navi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 187,
-      "total_clone_uniques": 78,
+      "total_clones": 155,
+      "total_clone_uniques": 69,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ntr-navi",
       "daily": [
@@ -27528,14 +28173,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "oppai-paradise": {
       "total_views": 5,
       "total_uniques": 5,
-      "total_clones": 267,
-      "total_clone_uniques": 93,
+      "total_clones": 200,
+      "total_clone_uniques": 76,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/oppai-paradise",
       "daily": [
@@ -27718,14 +28368,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "shiroto-squad": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 231,
-      "total_clone_uniques": 89,
+      "total_clones": 160,
+      "total_clone_uniques": 72,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/shiroto-squad",
       "daily": [
@@ -27913,14 +28573,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "vr-eros": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 225,
-      "total_clone_uniques": 94,
+      "total_clones": 205,
+      "total_clone_uniques": 85,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/vr-eros",
       "daily": [
@@ -28106,6 +28771,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -28504,8 +29174,8 @@
     "aqua-voice-guide": {
       "total_views": 2,
       "total_uniques": 1,
-      "total_clones": 351,
-      "total_clone_uniques": 166,
+      "total_clones": 367,
+      "total_clone_uniques": 171,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/aqua-voice-guide",
       "daily": [
@@ -28691,6 +29361,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -28888,14 +29563,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "bodymake-dojo": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 326,
-      "total_clone_uniques": 164,
+      "total_clones": 357,
+      "total_clone_uniques": 173,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/bodymake-dojo",
       "daily": [
@@ -29083,14 +29763,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "bodyweight-mastery": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 345,
-      "total_clone_uniques": 182,
+      "total_clones": 351,
+      "total_clone_uniques": 172,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/bodyweight-mastery",
       "daily": [
@@ -29273,14 +29958,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "bolt-new-guide": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 376,
-      "total_clone_uniques": 173,
+      "total_clones": 402,
+      "total_clone_uniques": 182,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/bolt-new-guide",
       "daily": [
@@ -29466,6 +30161,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -29679,8 +30379,8 @@
     "crypto-beginner": {
       "total_views": 3,
       "total_uniques": 2,
-      "total_clones": 500,
-      "total_clone_uniques": 181,
+      "total_clones": 536,
+      "total_clone_uniques": 197,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/crypto-beginner",
       "daily": [
@@ -29868,14 +30568,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "cursor-ai-master": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 361,
-      "total_clone_uniques": 170,
+      "total_clones": 378,
+      "total_clone_uniques": 174,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/cursor-ai-master",
       "daily": [
@@ -30058,14 +30763,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "deepseek-navi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 342,
-      "total_clone_uniques": 169,
+      "total_clones": 377,
+      "total_clone_uniques": 179,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/deepseek-navi",
       "daily": [
@@ -30253,14 +30963,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "elevenlabs-guide": {
       "total_views": 2,
       "total_uniques": 2,
-      "total_clones": 272,
-      "total_clone_uniques": 139,
+      "total_clones": 309,
+      "total_clone_uniques": 149,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/elevenlabs-guide",
       "daily": [
@@ -30448,6 +31163,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -30554,8 +31274,8 @@
     "flux-ai-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 301,
-      "total_clone_uniques": 153,
+      "total_clones": 313,
+      "total_clone_uniques": 157,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/flux-ai-lab",
       "daily": [
@@ -30738,6 +31458,16 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -30849,8 +31579,8 @@
     "goods-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 199,
-      "total_clone_uniques": 87,
+      "total_clones": 163,
+      "total_clone_uniques": 72,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/goods-lab",
       "daily": [
@@ -31028,13 +31758,18 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "grok-ai-guide": {
       "total_views": 7,
       "total_uniques": 4,
-      "total_clones": 326,
+      "total_clones": 343,
       "total_clone_uniques": 169,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/grok-ai-guide",
@@ -31216,6 +31951,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -31413,13 +32158,18 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "kampo-maniac": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 155,
+      "total_clones": 161,
       "total_clone_uniques": 62,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/kampo-maniac",
@@ -31603,14 +32353,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "lovable-guide": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 286,
-      "total_clone_uniques": 151,
+      "total_clones": 313,
+      "total_clone_uniques": 161,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/lovable-guide",
       "daily": [
@@ -31796,6 +32551,11 @@
         },
         {
           "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -31999,8 +32759,8 @@
     "manus-ai-guide": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 276,
-      "total_clone_uniques": 144,
+      "total_clones": 292,
+      "total_clone_uniques": 145,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/manus-ai-guide",
       "daily": [
@@ -32176,6 +32936,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -32379,8 +33149,8 @@
     "muscle-science-lab": {
       "total_views": 4,
       "total_uniques": 3,
-      "total_clones": 346,
-      "total_clone_uniques": 175,
+      "total_clones": 375,
+      "total_clone_uniques": 185,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/muscle-science-lab",
       "daily": [
@@ -32568,14 +33338,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "n8n-master": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 381,
-      "total_clone_uniques": 200,
+      "total_clones": 378,
+      "total_clone_uniques": 181,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/n8n-master",
       "daily": [
@@ -32758,14 +33533,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "nutrition-supple-navi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 306,
-      "total_clone_uniques": 154,
+      "total_clones": 337,
+      "total_clone_uniques": 163,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/nutrition-supple-navi",
       "daily": [
@@ -32953,14 +33738,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "perplexity-ai-guide": {
-      "total_views": 97,
-      "total_uniques": 10,
-      "total_clones": 343,
-      "total_clone_uniques": 168,
+      "total_views": 108,
+      "total_uniques": 13,
+      "total_clones": 359,
+      "total_clone_uniques": 176,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/perplexity-ai-guide",
       "daily": [
@@ -33148,6 +33938,11 @@
           "date": "2026-04-21",
           "views": 3,
           "uniques": 1
+        },
+        {
+          "date": "2026-04-22",
+          "views": 11,
+          "uniques": 3
         }
       ]
     },
@@ -33449,8 +34244,8 @@
     "recovery-master": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 350,
-      "total_clone_uniques": 169,
+      "total_clones": 382,
+      "total_clone_uniques": 177,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/recovery-master",
       "daily": [
@@ -33638,14 +34433,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "runners-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 372,
-      "total_clone_uniques": 188,
+      "total_clones": 393,
+      "total_clone_uniques": 195,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/runners-lab",
       "daily": [
@@ -33833,14 +34633,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "runway-creators-guide": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 366,
-      "total_clone_uniques": 183,
+      "total_clones": 389,
+      "total_clone_uniques": 185,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/runway-creators-guide",
       "daily": [
@@ -34023,14 +34828,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sleep-mental-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 326,
-      "total_clone_uniques": 168,
+      "total_clones": 356,
+      "total_clone_uniques": 176,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sleep-mental-lab",
       "daily": [
@@ -34218,14 +35033,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "suno-music-lab": {
-      "total_views": 24,
-      "total_uniques": 12,
-      "total_clones": 313,
-      "total_clone_uniques": 155,
+      "total_views": 27,
+      "total_uniques": 13,
+      "total_clones": 330,
+      "total_clone_uniques": 162,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/suno-music-lab",
       "daily": [
@@ -34408,6 +35228,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 3,
+          "uniques": 1
         }
       ]
     },
@@ -34802,10 +35627,10 @@
       ]
     },
     "windsurf-guide": {
-      "total_views": 5,
-      "total_uniques": 5,
-      "total_clones": 360,
-      "total_clone_uniques": 173,
+      "total_views": 7,
+      "total_uniques": 6,
+      "total_clones": 385,
+      "total_clone_uniques": 182,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/windsurf-guide",
       "daily": [
@@ -34993,6 +35818,11 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 2,
+          "uniques": 1
         }
       ]
     },
@@ -35373,14 +36203,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "armwrestling-girls-navi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 52,
-      "total_clone_uniques": 35,
+      "total_clones": 16,
+      "total_clone_uniques": 11,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/armwrestling-girls-navi",
       "daily": [
@@ -35531,6 +36366,16 @@
         },
         {
           "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
           "views": 0,
           "uniques": 0
         }
@@ -35699,8 +36544,8 @@
     "fighting-girls-navi": {
       "total_views": 5,
       "total_uniques": 5,
-      "total_clones": 19,
-      "total_clone_uniques": 14,
+      "total_clones": 17,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fighting-girls-navi",
       "daily": [
@@ -35853,14 +36698,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "joshi-prowrestling-navi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 17,
-      "total_clone_uniques": 12,
+      "total_clones": 15,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/joshi-prowrestling-navi",
       "daily": [
@@ -36013,14 +36863,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-meal-girls": {
-      "total_views": 0,
-      "total_uniques": 0,
-      "total_clones": 58,
-      "total_clone_uniques": 39,
+      "total_views": 1,
+      "total_uniques": 1,
+      "total_clones": 13,
+      "total_clone_uniques": 8,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/muscle-meal-girls",
       "daily": [
@@ -36173,14 +37028,24 @@
           "date": "2026-04-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 1,
+          "uniques": 1
         }
       ]
     },
     "overseas-fitness-girls": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 20,
-      "total_clone_uniques": 15,
+      "total_clones": 19,
+      "total_clone_uniques": 14,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/overseas-fitness-girls",
       "daily": [
@@ -36338,14 +37203,19 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "physique-girls-navi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 18,
-      "total_clone_uniques": 13,
+      "total_clones": 17,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/physique-girls-navi",
       "daily": [
@@ -36498,22 +37368,27 @@
           "date": "2026-04-21",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
         }
       ]
     }
   },
   "summary": {
     "total_repos_tracked": 187,
-    "total_views_all": 212,
-    "total_uniques_all": 97,
+    "total_views_all": 229,
+    "total_uniques_all": 103,
     "top_repos": [
       {
         "name": "perplexity-ai-guide",
-        "views": 97
+        "views": 108
       },
       {
         "name": "suno-music-lab",
-        "views": 24
+        "views": 27
       },
       {
         "name": "facebook-auto-uploader",
@@ -36524,11 +37399,11 @@
         "views": 7
       },
       {
-        "name": "oppai-paradise",
-        "views": 5
+        "name": "windsurf-guide",
+        "views": 7
       },
       {
-        "name": "windsurf-guide",
+        "name": "oppai-paradise",
         "views": 5
       },
       {
