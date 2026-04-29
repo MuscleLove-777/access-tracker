@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T08:05:35.070949+00:00",
+  "last_updated": "2026-04-29T07:59:34.845250+00:00",
   "repos": {
     "academy-index": {
       "total_views": 0,
@@ -43456,7 +43456,7 @@
       "total_uniques": 0,
       "total_clones": 8,
       "total_clone_uniques": 8,
-      "is_github_pages": true,
+      "is_github_pages": false,
       "homepage": "https://musclelove-777.github.io/anauma-finder",
       "daily": [
         {
@@ -43608,6 +43608,11 @@
           "date": "2026-04-28",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -43686,6 +43691,11 @@
         },
         {
           "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
           "views": 0,
           "uniques": 0
         }
@@ -43926,6 +43936,11 @@
         },
         {
           "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
           "views": 0,
           "uniques": 0
         }
@@ -44408,6 +44423,11 @@
           "date": "2026-04-28",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -44566,6 +44586,11 @@
         },
         {
           "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
           "views": 0,
           "uniques": 0
         }
@@ -44890,10 +44915,490 @@
           "uniques": 0
         }
       ]
+    },
+    "idle-ai-lab": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 0,
+      "total_clone_uniques": 0,
+      "is_github_pages": true,
+      "homepage": "https://musclelove-777.github.io/idle-ai-lab",
+      "daily": [
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "idle-aru": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 0,
+      "total_clone_uniques": 0,
+      "is_github_pages": true,
+      "homepage": "https://musclelove-777.github.io/idle-aru",
+      "daily": [
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "idle-end": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 0,
+      "total_clone_uniques": 0,
+      "is_github_pages": true,
+      "homepage": "https://musclelove-777.github.io/idle-end",
+      "daily": [
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "idle-roi": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 0,
+      "total_clone_uniques": 0,
+      "is_github_pages": true,
+      "homepage": "https://musclelove-777.github.io/idle-roi",
+      "daily": [
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "idle-yarakashi": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 0,
+      "total_clone_uniques": 0,
+      "is_github_pages": true,
+      "homepage": "https://musclelove-777.github.io/idle-yarakashi",
+      "daily": [
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "muscle-walk": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 0,
+      "total_clone_uniques": 0,
+      "is_github_pages": true,
+      "homepage": "https://musclelove-777.github.io/muscle-walk",
+      "daily": [
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
     }
   },
   "summary": {
-    "total_repos_tracked": 219,
+    "total_repos_tracked": 225,
     "total_views_all": 268,
     "total_uniques_all": 118,
     "top_repos": [
