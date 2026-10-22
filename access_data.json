@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T10:46:28.764523+00:00",
+  "last_updated": "2026-10-22T10:48:17.946129+00:00",
   "repos": {
     "academy-index": {
       "total_views": 1,
@@ -1113,14 +1113,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "access-tracker": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 175,
-      "total_clone_uniques": 80,
+      "total_clones": 189,
+      "total_clone_uniques": 88,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -2221,6 +2226,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -3338,6 +3348,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -4451,6 +4466,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -5568,6 +5588,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -6683,14 +6708,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ai-tech-blog": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 31,
-      "total_clone_uniques": 22,
+      "total_clones": 29,
+      "total_clone_uniques": 20,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ai-tech-blog",
       "daily": [
@@ -7798,14 +7828,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ai-tools-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ai-tools-academy",
       "daily": [
@@ -8913,14 +8948,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ameblo-auto-uploader": {
       "total_views": 2,
       "total_uniques": 2,
-      "total_clones": 258,
-      "total_clone_uniques": 92,
+      "total_clones": 235,
+      "total_clone_uniques": 84,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -10026,6 +10066,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -11143,6 +11188,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -12258,14 +12308,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "booru-auto-uploader": {
       "total_views": 3,
       "total_uniques": 3,
-      "total_clones": 32,
-      "total_clone_uniques": 5,
+      "total_clones": 33,
+      "total_clone_uniques": 6,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -13371,6 +13426,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -14488,14 +14548,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "comm-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/comm-academy",
       "daily": [
@@ -15603,14 +15668,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "company-setup-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/company-setup-academy",
       "daily": [
@@ -16716,6 +16786,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -17833,6 +17908,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -18946,6 +19026,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -20063,14 +20148,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "customer-analysis-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 2,
-      "total_clone_uniques": 2,
+      "total_clones": 3,
+      "total_clone_uniques": 3,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/customer-analysis-academy",
       "daily": [
@@ -21176,6 +21266,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -22293,14 +22388,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "deviantart-auto-uploader": {
       "total_views": 6,
       "total_uniques": 6,
-      "total_clones": 434,
-      "total_clone_uniques": 169,
+      "total_clones": 445,
+      "total_clone_uniques": 166,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -23406,6 +23506,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -24523,14 +24628,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ds-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ds-academy",
       "daily": [
@@ -25638,14 +25748,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "dumbbell-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/dumbbell-academy",
       "daily": [
@@ -26753,14 +26868,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "endchan-auto-uploader": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 52,
-      "total_clone_uniques": 10,
+      "total_clones": 48,
+      "total_clone_uniques": 6,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -27866,6 +27986,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -28983,14 +29108,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "eps-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/eps-academy",
       "daily": [
@@ -30098,14 +30228,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "facebook-auto-uploader": {
       "total_views": 65,
       "total_uniques": 28,
-      "total_clones": 14,
-      "total_clone_uniques": 13,
+      "total_clones": 9,
+      "total_clone_uniques": 8,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -31211,6 +31346,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -32328,14 +32468,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fc2-auto-uploader": {
       "total_views": 18,
       "total_uniques": 14,
-      "total_clones": 546,
-      "total_clone_uniques": 205,
+      "total_clones": 549,
+      "total_clone_uniques": 208,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -33443,14 +33588,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fitness-affiliate-blog": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 66,
-      "total_clone_uniques": 33,
+      "total_clones": 55,
+      "total_clone_uniques": 27,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fitness-affiliate-blog",
       "daily": [
@@ -34553,14 +34703,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fp-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fp-academy",
       "daily": [
@@ -35668,14 +35823,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "framework-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/framework-academy",
       "daily": [
@@ -36781,6 +36941,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -37898,6 +38063,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -39013,14 +39183,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "hatena-auto-uploader": {
       "total_views": 6,
       "total_uniques": 5,
-      "total_clones": 591,
-      "total_clone_uniques": 219,
+      "total_clones": 607,
+      "total_clone_uniques": 223,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -40126,6 +40301,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -41243,14 +41423,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "intimacy-academy": {
       "total_views": 2,
       "total_uniques": 2,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/intimacy-academy",
       "daily": [
@@ -42356,6 +42541,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -43473,14 +43663,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "keiba-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 3,
+      "total_clone_uniques": 3,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/keiba-academy",
       "daily": [
@@ -44586,6 +44781,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -45703,6 +45903,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -46816,6 +47021,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -47933,14 +48143,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "livedoor-auto-uploader": {
       "total_views": 2,
       "total_uniques": 1,
-      "total_clones": 80,
-      "total_clone_uniques": 39,
+      "total_clones": 79,
+      "total_clone_uniques": 38,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -49046,6 +49261,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -50163,6 +50383,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -51278,14 +51503,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "marketing-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/marketing-academy",
       "daily": [
@@ -52391,6 +52621,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -53508,14 +53743,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "mixi-auto-uploader": {
       "total_views": 6,
       "total_uniques": 4,
-      "total_clones": 8,
-      "total_clone_uniques": 7,
+      "total_clones": 11,
+      "total_clone_uniques": 10,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -54621,6 +54861,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -55738,14 +55983,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-beforeafter": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 6,
-      "total_clone_uniques": 6,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -56851,6 +57101,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -56859,8 +57114,8 @@
     "muscle-breakout": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -57966,6 +58221,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -59083,14 +59343,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-catch": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -60196,6 +60461,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -61313,6 +61583,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -62428,14 +62703,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-idle-game": {
       "total_views": 3,
       "total_uniques": 3,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/muscle-idle-game",
       "daily": [
@@ -63541,6 +63821,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -64658,14 +64943,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-memory": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -65771,6 +66061,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -66888,14 +67183,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-puzzle-game": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 6,
-      "total_clone_uniques": 6,
+      "total_clones": 7,
+      "total_clone_uniques": 7,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -68001,6 +68301,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -69118,1125 +69423,15 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
-        }
-      ]
-    },
-    "muscle-reaction": {
-      "total_views": 0,
-      "total_uniques": 0,
-      "total_clones": 2,
-      "total_clone_uniques": 2,
-      "is_github_pages": false,
-      "homepage": "",
-      "daily": [
-        {
-          "date": "2026-03-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-19",
-          "views": 0,
-          "uniques": 0
         },
         {
-          "date": "2026-10-20",
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
       ]
     },
-    "muscle-rhythm": {
+    "muscle-reaction": {
       "total_views": 0,
       "total_uniques": 0,
       "total_clones": 3,
@@ -71348,14 +70543,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
-    "muscle-roulette": {
+    "muscle-rhythm": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -72461,6 +71661,1131 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "muscle-roulette": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 6,
+      "total_clone_uniques": 6,
+      "is_github_pages": false,
+      "homepage": "",
+      "daily": [
+        {
+          "date": "2026-03-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -73578,6 +73903,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -74693,14 +75023,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-shooter": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 6,
+      "total_clone_uniques": 6,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -75808,14 +76143,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-slide": {
       "total_views": 2,
       "total_uniques": 2,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -76921,6 +77261,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -78038,14 +78383,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-spotdiff": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -79151,6 +79501,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -80268,6 +80623,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -81383,1125 +81743,15 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
-        }
-      ]
-    },
-    "muscle-typing": {
-      "total_views": 0,
-      "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
-      "is_github_pages": false,
-      "homepage": "",
-      "daily": [
-        {
-          "date": "2026-03-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-03-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-04-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-05-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-06-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-07-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-08-31",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-19",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-20",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-21",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-22",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-23",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-24",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-25",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-26",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-27",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-28",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-29",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-09-30",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-01",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-02",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-03",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-04",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-05",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-06",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-07",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-08",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-09",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-10",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-11",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-12",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-13",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-14",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-15",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-16",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-17",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-18",
-          "views": 0,
-          "uniques": 0
-        },
-        {
-          "date": "2026-10-19",
-          "views": 0,
-          "uniques": 0
         },
         {
-          "date": "2026-10-20",
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
       ]
     },
-    "muscle-vs": {
+    "muscle-typing": {
       "total_views": 0,
       "total_uniques": 0,
       "total_clones": 5,
@@ -83613,14 +82863,1139 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
+        }
+      ]
+    },
+    "muscle-vs": {
+      "total_views": 0,
+      "total_uniques": 0,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
+      "is_github_pages": false,
+      "homepage": "",
+      "daily": [
+        {
+          "date": "2026-03-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-03-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-04-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-05-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-06-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-07-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-08-31",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-21",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-22",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-23",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-24",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-25",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-26",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-27",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-28",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-29",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-09-30",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-01",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-02",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-03",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-04",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-05",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-06",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-07",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-08",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-09",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-10",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-11",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-12",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-13",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-14",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-15",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-16",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-17",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-18",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-19",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "musclelove-games": {
       "total_views": 16,
       "total_uniques": 8,
-      "total_clones": 6,
-      "total_clone_uniques": 6,
+      "total_clones": 7,
+      "total_clone_uniques": 7,
       "is_github_pages": true,
       "homepage": "https://musclelove-games.vercel.app",
       "daily": [
@@ -84726,6 +85101,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -85843,6 +86223,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -86956,6 +87341,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -88073,14 +88463,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "nomikai-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 2,
-      "total_clone_uniques": 2,
+      "total_clones": 3,
+      "total_clone_uniques": 3,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/nomikai-academy",
       "daily": [
@@ -89188,14 +89583,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ono-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 7,
+      "total_clone_uniques": 6,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ono-academy",
       "daily": [
@@ -90303,14 +90703,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "osake-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 2,
-      "total_clone_uniques": 2,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/osake-academy",
       "daily": [
@@ -91418,14 +91823,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "otsuka-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/otsuka-academy",
       "daily": [
@@ -92531,6 +92941,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -93648,6 +94063,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -94761,6 +95181,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -95878,6 +96303,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -96991,6 +97421,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -98108,14 +98543,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "philosophy-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/philosophy-academy",
       "daily": [
@@ -99223,14 +99663,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "photo-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 2,
-      "total_clone_uniques": 2,
+      "total_clones": 3,
+      "total_clone_uniques": 3,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/photo-academy",
       "daily": [
@@ -100336,6 +100781,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -101453,14 +101903,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ppd-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 3,
+      "total_clone_uniques": 3,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ppd-academy",
       "daily": [
@@ -102566,6 +103021,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -103683,6 +104143,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -104796,6 +105261,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -105913,6 +106383,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -107028,14 +107503,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "racehorse-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/racehorse-academy",
       "daily": [
@@ -108141,6 +108621,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -109259,8 +109744,8 @@
     "realestate-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/realestate-academy",
       "daily": [
@@ -110368,14 +110853,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "realtor-miku-property-watch": {
       "total_views": 6,
       "total_uniques": 4,
-      "total_clones": 219,
-      "total_clone_uniques": 91,
+      "total_clones": 230,
+      "total_clone_uniques": 100,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -111483,14 +111973,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "recruitment-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/recruitment-academy",
       "daily": [
@@ -112596,6 +113091,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -113713,6 +114213,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -114828,14 +115333,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sas-graph-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 6,
-      "total_clone_uniques": 6,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sas-graph-academy",
       "daily": [
@@ -115941,6 +116451,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -117058,14 +117573,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sdtm-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sdtm-academy",
       "daily": [
@@ -118171,6 +118691,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -119288,14 +119813,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sdtm-spec-academy": {
       "total_views": 8,
       "total_uniques": 2,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sdtm-spec-academy",
       "daily": [
@@ -120401,6 +120931,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -121518,6 +122053,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -122633,14 +123173,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sleep-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 3,
+      "total_clone_uniques": 3,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sleep-academy",
       "daily": [
@@ -123746,6 +124291,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -124863,6 +125413,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -125976,6 +126531,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -127093,14 +127653,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "social-structure-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/social-structure-academy",
       "daily": [
@@ -128206,6 +128771,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -129323,6 +129893,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -130436,6 +131011,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -131553,6 +132133,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -132668,14 +133253,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "tlf-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/tlf-academy",
       "daily": [
@@ -133783,14 +134373,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "tumblr-auto-uploader": {
       "total_views": 3,
       "total_uniques": 3,
-      "total_clones": 456,
-      "total_clone_uniques": 151,
+      "total_clones": 468,
+      "total_clone_uniques": 157,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -134898,14 +135493,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "wine-academy": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/wine-academy",
       "daily": [
@@ -136013,14 +136613,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "x-auto-uploader": {
       "total_views": 54,
       "total_uniques": 52,
-      "total_clones": 16,
-      "total_clone_uniques": 14,
+      "total_clones": 15,
+      "total_clone_uniques": 13,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -137128,14 +137733,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "anime-navi": {
       "total_views": 46,
       "total_uniques": 15,
-      "total_clones": 122,
-      "total_clone_uniques": 63,
+      "total_clones": 135,
+      "total_clone_uniques": 69,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/anime-navi",
       "daily": [
@@ -138233,14 +138843,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "blog-audit": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 83,
-      "total_clone_uniques": 41,
+      "total_clones": 86,
+      "total_clone_uniques": 43,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/blog-audit",
       "daily": [
@@ -139336,6 +139951,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -140443,6 +141063,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -141546,6 +142171,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -142653,6 +143283,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -143758,14 +144393,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "entsuma": {
       "total_views": 36,
       "total_uniques": 20,
-      "total_clones": 127,
-      "total_clone_uniques": 65,
+      "total_clones": 110,
+      "total_clone_uniques": 54,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/entsuma",
       "daily": [
@@ -144863,14 +145503,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "eronavi": {
       "total_views": 90,
       "total_uniques": 3,
-      "total_clones": 119,
-      "total_clone_uniques": 67,
+      "total_clones": 128,
+      "total_clone_uniques": 72,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/eronavi",
       "daily": [
@@ -145968,14 +146613,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fetish-dendo": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 116,
-      "total_clone_uniques": 49,
+      "total_clones": 118,
+      "total_clone_uniques": 50,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fetish-dendo",
       "daily": [
@@ -147071,6 +147721,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -148178,14 +148833,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "nijigen-realize": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 110,
-      "total_clone_uniques": 57,
+      "total_clones": 126,
+      "total_clone_uniques": 61,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/nijigen-realize",
       "daily": [
@@ -149283,14 +149943,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ntr-navi": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 114,
-      "total_clone_uniques": 59,
+      "total_clones": 113,
+      "total_clone_uniques": 57,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ntr-navi",
       "daily": [
@@ -150388,14 +151053,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "oppai-paradise": {
       "total_views": 171,
       "total_uniques": 72,
-      "total_clones": 91,
-      "total_clone_uniques": 40,
+      "total_clones": 113,
+      "total_clone_uniques": 52,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/oppai-paradise",
       "daily": [
@@ -151493,14 +152163,19 @@
           "date": "2026-10-20",
           "views": 1,
           "uniques": 1
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "shiroto-squad": {
       "total_views": 2,
       "total_uniques": 1,
-      "total_clones": 121,
-      "total_clone_uniques": 58,
+      "total_clones": 139,
+      "total_clone_uniques": 67,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/shiroto-squad",
       "daily": [
@@ -152598,14 +153273,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "vr-eros": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 121,
-      "total_clone_uniques": 55,
+      "total_clones": 108,
+      "total_clone_uniques": 49,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/vr-eros",
       "daily": [
@@ -153703,14 +154383,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ai-tool-hub": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 33,
-      "total_clone_uniques": 20,
+      "total_clones": 34,
+      "total_clone_uniques": 21,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ai-tool-hub",
       "daily": [
@@ -154808,14 +155493,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "antigravity-guide": {
       "total_views": 8,
       "total_uniques": 3,
-      "total_clones": 9,
-      "total_clone_uniques": 8,
+      "total_clones": 10,
+      "total_clone_uniques": 9,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/antigravity-guide",
       "daily": [
@@ -155911,6 +156601,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -157018,6 +157713,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -158123,14 +158823,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "bodymake-dojo": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 15,
-      "total_clone_uniques": 11,
+      "total_clones": 16,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/bodymake-dojo",
       "daily": [
@@ -159228,14 +159933,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "bodyweight-mastery": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 15,
-      "total_clone_uniques": 11,
+      "total_clones": 16,
+      "total_clone_uniques": 12,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/bodyweight-mastery",
       "daily": [
@@ -160331,6 +161041,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -161436,6 +162151,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -162748,6 +163468,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -163846,6 +164571,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -164953,6 +165683,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -166058,6 +166793,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -166164,8 +166904,8 @@
     "flux-ai-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 12,
-      "total_clone_uniques": 11,
+      "total_clones": 11,
+      "total_clone_uniques": 10,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/flux-ai-lab",
       "daily": [
@@ -167263,6 +168003,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -167374,8 +168119,8 @@
     "goods-lab": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 120,
-      "total_clone_uniques": 58,
+      "total_clones": 111,
+      "total_clone_uniques": 55,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/goods-lab",
       "daily": [
@@ -168466,6 +169211,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -169573,6 +170323,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -170678,14 +171433,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "kampo-maniac": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 35,
-      "total_clone_uniques": 24,
+      "total_clones": 36,
+      "total_clone_uniques": 25,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/kampo-maniac",
       "daily": [
@@ -171776,6 +172536,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -172883,6 +173648,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -173988,14 +174758,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "manus-ai-guide": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 8,
-      "total_clone_uniques": 7,
+      "total_clones": 9,
+      "total_clone_uniques": 8,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/manus-ai-guide",
       "daily": [
@@ -175086,6 +175861,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -176193,14 +176973,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-science-lab": {
       "total_views": 4,
       "total_uniques": 3,
-      "total_clones": 33,
-      "total_clone_uniques": 22,
+      "total_clones": 34,
+      "total_clone_uniques": 23,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/muscle-science-lab",
       "daily": [
@@ -177298,14 +178083,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "n8n-master": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 31,
-      "total_clone_uniques": 21,
+      "total_clones": 32,
+      "total_clone_uniques": 22,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/n8n-master",
       "daily": [
@@ -178403,14 +179193,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "nutrition-supple-navi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 25,
-      "total_clone_uniques": 21,
+      "total_clones": 21,
+      "total_clone_uniques": 17,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/nutrition-supple-navi",
       "daily": [
@@ -179506,6 +180301,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -180611,6 +181411,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -182013,14 +182818,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "runners-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 26,
-      "total_clone_uniques": 18,
+      "total_clones": 27,
+      "total_clone_uniques": 19,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/runners-lab",
       "daily": [
@@ -183118,14 +183928,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "runway-creators-guide": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 17,
-      "total_clone_uniques": 13,
+      "total_clones": 18,
+      "total_clone_uniques": 14,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/runway-creators-guide",
       "daily": [
@@ -184223,14 +185038,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "sleep-mental-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 7,
-      "total_clone_uniques": 6,
+      "total_clones": 9,
+      "total_clone_uniques": 8,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/sleep-mental-lab",
       "daily": [
@@ -185326,6 +186146,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -186426,6 +187251,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -187533,14 +188363,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "veo-ai-master": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 29,
-      "total_clone_uniques": 20,
+      "total_clones": 30,
+      "total_clone_uniques": 21,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/veo-ai-master",
       "daily": [
@@ -188636,6 +189471,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -189743,14 +190583,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fukugyo-hyakka": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 5,
+      "total_clone_uniques": 5,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fukugyo-hyakka",
       "daily": [
@@ -190841,6 +191686,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -191943,6 +192793,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -193018,14 +193873,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "female-physique-queens": {
       "total_views": 3,
       "total_uniques": 3,
-      "total_clones": 7,
-      "total_clone_uniques": 7,
+      "total_clones": 6,
+      "total_clone_uniques": 6,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/female-physique-queens",
       "daily": [
@@ -194088,14 +194948,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fighting-girls-navi": {
       "total_views": 5,
       "total_uniques": 5,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 6,
+      "total_clone_uniques": 6,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fighting-girls-navi",
       "daily": [
@@ -195156,6 +196021,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -196228,14 +197098,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-meal-girls": {
       "total_views": 15,
       "total_uniques": 8,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 6,
+      "total_clone_uniques": 6,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/muscle-meal-girls",
       "daily": [
@@ -197301,6 +198176,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -198378,6 +199258,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -199448,6 +200333,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -200428,14 +201318,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "index-stocks-compass": {
       "total_views": 2,
       "total_uniques": 2,
-      "total_clones": 163,
-      "total_clone_uniques": 74,
+      "total_clones": 216,
+      "total_clone_uniques": 78,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/index-stocks-compass",
       "daily": [
@@ -201406,6 +202301,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -202383,6 +203283,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -203351,6 +204256,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -204328,14 +205238,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ai-video-lab": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 3,
+      "total_clone_uniques": 3,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/ai-video-lab",
       "daily": [
@@ -205301,6 +206216,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -206273,6 +207193,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -207241,6 +208166,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -208213,14 +209143,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "prompt-archive-oiacoes": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 15,
-      "total_clone_uniques": 15,
+      "total_clones": 14,
+      "total_clone_uniques": 14,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/prompt-archive-oiacoes",
       "daily": [
@@ -209186,6 +210121,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -210158,6 +211098,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -211128,6 +212073,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -212088,14 +213038,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "ai-news-digest": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 5,
-      "total_clone_uniques": 4,
+      "total_clones": 6,
+      "total_clone_uniques": 5,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -213046,6 +214001,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -214008,6 +214968,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -214961,6 +215926,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -215918,14 +216888,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "fudosan-compass": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/fudosan-compass",
       "daily": [
@@ -216876,6 +217851,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -217838,6 +218818,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -218793,14 +219778,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "kuruma-compass": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 2,
-      "total_clone_uniques": 2,
+      "total_clones": 3,
+      "total_clone_uniques": 3,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/kuruma-compass",
       "daily": [
@@ -219751,6 +220741,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -220713,14 +221708,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "matching-compass": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 4,
-      "total_clone_uniques": 4,
+      "total_clones": 6,
+      "total_clone_uniques": 6,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/matching-compass",
       "daily": [
@@ -221671,6 +222671,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -222633,6 +223638,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -223593,6 +224603,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -224546,6 +225561,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -225508,6 +226528,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -226463,14 +227488,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "taishoku-navi": {
       "total_views": 1,
       "total_uniques": 1,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/taishoku-navi",
       "daily": [
@@ -227423,14 +228453,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "term-cat-manga": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 2,
-      "total_clone_uniques": 2,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/term-cat-manga",
       "daily": [
@@ -228381,6 +229416,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -229343,6 +230383,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -230303,6 +231348,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -231251,6 +232301,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -232203,6 +233258,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -233151,6 +234211,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
@@ -234103,14 +235168,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "idle-yarakashi": {
       "total_views": 0,
       "total_uniques": 0,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/idle-yarakashi",
       "daily": [
@@ -235053,14 +236123,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "muscle-walk": {
       "total_views": 9,
       "total_uniques": 7,
-      "total_clones": 3,
-      "total_clone_uniques": 3,
+      "total_clones": 4,
+      "total_clone_uniques": 4,
       "is_github_pages": true,
       "homepage": "https://musclelove-777.github.io/muscle-walk",
       "daily": [
@@ -236003,6 +237078,11 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
@@ -236648,14 +237728,19 @@
           "date": "2026-10-20",
           "views": 0,
           "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
+          "views": 0,
+          "uniques": 0
         }
       ]
     },
     "instagram-auto-uploader": {
       "total_views": 19,
       "total_uniques": 12,
-      "total_clones": 5,
-      "total_clone_uniques": 5,
+      "total_clones": 6,
+      "total_clone_uniques": 6,
       "is_github_pages": false,
       "homepage": "",
       "daily": [
@@ -237281,6 +238366,11 @@
         },
         {
           "date": "2026-10-20",
+          "views": 0,
+          "uniques": 0
+        },
+        {
+          "date": "2026-10-21",
           "views": 0,
           "uniques": 0
         }
